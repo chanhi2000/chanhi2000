@@ -1,5 +1,7 @@
 # chanhi2000
 
+![img][img]
+
 프로그램이 작성되는 환경부터 배포되는 환경까지 좋은 문화를 적용하는 개발자 이찬희 입니다
 
 ---
@@ -30,17 +32,31 @@
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=flat-square" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat-square" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+    <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square" />
+    <img alt="Synology Nas" src="https://img.shields.io/badge/Synology%20NAS-B6B5B6?logo=synology&logoColor=white&style=flat-square" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" />
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat-square" />
-    <img alt="Kakao" src="https://img.shields.io/badge/Kakao-FFCD00?logo=Kakao&logoColor=white&style=flat-square" />
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20API-FFCA28?logo=Firebase&logoColor=white&style=flat-square" />
+    <img alt="Kakao" src="https://img.shields.io/badge/Kakao%20API-FFCD00?logo=Kakao&logoColor=white&style=flat-square" />
+    <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?logo=Gitea&logoColor=white&style=flat-square" />
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat-square" />
 </p>
 
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently working on ...
 
 - ~~Building my First Github Profile~~
 - Making Portfolio Page on [![notion](https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white&style=flat-square)][notion-portfolio]
-- G-inno System's Project
+- Project(s) in G-inno System 
+    - ~~2018년 서울시 포장도로 관리 시스템 유지보수 용역~~ 
+        - Daum 맵 위치정보 기반 멀티플랫폼 프로젝트
+        - [![spms-ios](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][spms-ios][![spms-android](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][spms-android]
+    - 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _서울안전 (대시민)_
+        - Naver 맵 위치정보 기반 웹/모바일 하이브리드 프로젝트
+        - [![safecity-ios](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][safecity-ios][![safecity-android](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][safecity-android]
+        - [서울안전누리][toSafecity]
+    - 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_ 
+    - 2020년 행안부 통합상황시스템 모바일 신규 사업 (WIP)
 
 > Details soon to be recorded here ~
 
@@ -66,9 +82,23 @@
 
 <p>
     <a href="https://instagram.com/chanhi2000">
-        <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" />
+        <img alt="instagram" src="https://img.shields.io/badge/chanhi2000-E4405F?logo=instagram&logoColor=white&style=flat-square" />
+    </a>
+    <a href="https://www.linkedin.com/in/chanhi2000/">
+        <img alt="linkedin" src="https://img.shields.io/badge/in/chanhi2000-0077B5?logo=instagram&logoColor=white&style=flat-square" />
+    </a>
+    <a>
+        <img alt="kakao" src="https://img.shields.io/badge/chanhi2002-FFCD00?logo=kakao&logoColor=white&style=flat-square" />
+    </a>
+    <a href="mailto:chanhi2000@gmail.com">
+        <img alt="gmail" src="https://img.shields.io/badge/chanhi2000@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+    </a>
+    <a href="https://m.me/spamlove">
+        <img alt="messanger" src="https://img.shields.io/badge/-spamlove-0078FF?style=flat&logo=Messenger&logoColor=white" />
     </a>
 </p>
+
+
 
 ## Github Stats
 
@@ -77,7 +107,12 @@
 ![chanhi2000's most used languages][github-stats-most-used-lang]
 
 ---
-
+[img]: imgs/coderman.gif
+[spms-ios]: https://pavepot.eseoul.go.kr:8443/ios.do
+[spms-android]: http://115.84.164.38:8080/apk/SPMS.apk
+[safecity-ios]: https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EC%95%88%EC%A0%84/id1331810063
+[safecity-android]: https://play.google.com/store/apps/details?id=kr.go.seoul.hybrid.SafeCity
+[toSafecity]: https://safecity.seoul.go.kr
 [github-stats]: https://github-readme-stats.vercel.app/api?username=chanhi2000
 [github-stats-most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=chanhi2000&layout=compact
 [notion-portfolio]: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd#2026553c86e040c5b60d561ca957aa1a
