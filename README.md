@@ -15,6 +15,7 @@
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square" />
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
     <img alt="C Sharp" src="https://img.shields.io/badge/C%20Sharp-239120?logo=C%20Sharp&logoColor=white&style=flat-square" />
+    <img alt=".Net Core" src="https://img.shields.io/badge/.Net%20Core-5C2D91?logo=.net&logoColor=white&style=flat-square" />
     <img alt="css3" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=flat-square" />
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=jQuery&logoColor=white&style=flat-square" />
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square" />
@@ -66,6 +67,7 @@
 - A  
 - B
 - C
+
 <!--
 ### 👯 I’m looking to collaborate on ...
 
@@ -115,4 +117,4 @@
 [toSafecity]: https://safecity.seoul.go.kr
 [github-stats]: https://github-readme-stats.vercel.app/api?username=chanhi2000
 [github-stats-most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=chanhi2000&layout=compact
-[notion-portfolio]: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd#2026553c86e040c5b60d561ca957aa1a
+[notion-portfolio]: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd
