@@ -48,6 +48,10 @@
 
 - ~~Building my First Github Profile~~
 - Making Portfolio Page on [![notion](https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white&style=flat-square)][notion-portfolio]
+- Building + refining mock app(s) for iOS / Android
+    - [chanhi2000/facebookFeed][facebookFeed]
+    - [chanhi2000/youtube-ios][youtube-ios]
+    - [chanhi2000/nike-detail-ios][nike-detail-ios]
 - Project(s) in G-inno System 
     - ~~2018년 서울시 포장도로 관리 시스템 유지보수 용역~~ 
         - Daum 맵 위치정보 기반 멀티플랫폼 프로젝트
@@ -64,7 +68,7 @@
     
 ### 🌱 I’m currently learning ...
 
-- A  
+- 
 - B
 - C
 
@@ -118,3 +122,7 @@
 [github-stats]: https://github-readme-stats.vercel.app/api?username=chanhi2000
 [github-stats-most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=chanhi2000&layout=compact
 [notion-portfolio]: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd
+
+[facebookFeed]: https://github.com/chanhi2000/facebookFeed
+[youtube-ios]: https://github.com/chanhi2000/youtube-ios
+[nike-detail-ios]: https://github.com/chanhi2000/nike-detail-ios
