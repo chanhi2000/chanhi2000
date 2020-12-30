@@ -52,6 +52,7 @@
     - [chanhi2000/facebookFeed][facebookFeed]
     - [chanhi2000/youtube-ios][youtube-ios]
     - [chanhi2000/nike-detail-ios][nike-detail-ios]
+    - [chanhi2000/IngrediSearch][IngrediSearch]
 - Project(s) in G-inno System 
     - ~~2018년 서울시 포장도로 관리 시스템 유지보수 용역~~ 
         - Daum 맵 위치정보 기반 멀티플랫폼 프로젝트
@@ -126,3 +127,4 @@
 [facebookFeed]: https://github.com/chanhi2000/facebookFeed
 [youtube-ios]: https://github.com/chanhi2000/youtube-ios
 [nike-detail-ios]: https://github.com/chanhi2000/nike-detail-ios
+[IngrediSearch]: https://github.com/chanhi2000/IngrediSearch
