@@ -46,8 +46,9 @@
 
 ### 🔭 I’m currently working on ...
 
-- ~~Building my First Github Profile~~
 - Making Portfolio Page on [![notion](https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white&style=flat-square)][notion-portfolio]
+- [풀이수학][toPoolemath] 앱 관리
+
 <details>
 <summary>Building + refining mock app(s) for iOS / Android</summary><br>
 
@@ -67,20 +68,28 @@
 <details>
 <summary>Project(s) in G-inno System</summary><br>
 
-- ~~2018년 서울시 포장도로 관리 시스템 유지보수 용역~~ 
+- 2018년 서울시 포장도로 관리 시스템 유지보수 용역
     - Daum 맵 위치정보 기반 멀티플랫폼 프로젝트
     - [![spms-ios](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][spms-ios][![spms-android](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][spms-android]
-- ~~2019-20년 서울 스마트재난 시스템 유지보수 용역 - _서울안전 (대시민)_~~
+- 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _서울안전 (대시민)_
     - Naver 맵 위치정보 기반 웹/모바일 하이브리드 프로젝트
     - [![safecity-ios](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][safecity-ios][![safecity-android](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][safecity-android]
-    - [서울안전누리][toSafecity]
-- ~~2019-20년 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_~~
-- ~~2020년 행안부 통합상황시스템 모바일 신규 사업 (WIP)~~
+    - [서울안전누리 사이트][toSafecity]
+- 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_
+- 2020년 행안부 통합상황시스템 모바일 신규 사업
 - 2021년 LG CNS 차세대 사회보장 시스템 GIS 부분 개발
 
 </details>
 <details>
 <summary>Project(s) in Poole Learning</summary><br>
+
+- 자사 앱 개발 및 관리 (2021-현재)
+    - __풀이수학__: (중.고등) 수학 외 기타과목 문제지 (Web/PDF 기반) 풀이 및 필기 서비스
+    - __수식입력기__: LaTeX기반 수식 변환 전용
+    - __어드민__: 수학 문제지 문제 등록/수정/기타 관리용
+- 2021년 해법교육 수학 AppBook 개발 및 외주 프로젝트 용역 : 안드로이드 및 서버 개발관리
+    - 테스트 환경 API 서버 관리 (Node 기반)
+    - (초.중.고등) PDF기반 풀이 및 필기 서비스
 </details>
     
 ### 🌱 I’m currently learning ...
@@ -132,6 +141,7 @@
 [safecity-ios]: https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EC%95%88%EC%A0%84/id1331810063
 [safecity-android]: https://play.google.com/store/apps/details?id=kr.go.seoul.hybrid.SafeCity
 [toSafecity]: https://safecity.seoul.go.kr
+[toPoolemath]: https://www.poolemath.com/
 [github-stats]: https://github-readme-stats.vercel.app/api?username=chanhi2000
 [github-stats-most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=chanhi2000&layout=compact
 [notion-portfolio]: https://www.notion.so/MarkiiimarK-c231ae6c157d4baba89a3713c92449dd
