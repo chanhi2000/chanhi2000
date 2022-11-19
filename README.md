@@ -41,6 +41,7 @@
     <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?logo=Gitea&logoColor=white&style=flat-square" />
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat-square" />
+    <img alt="Red Hat Openshift" src="https://img.shields.io/badge/Openshift-EE0000?logo=redhatopenshift&logoColor=white&style=flat-square" />
 </p>
 
 
@@ -78,8 +79,8 @@
 - 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_
 - 2020년 행안부 통합상황시스템 모바일 신규 사업
 - 2021년 LG CNS 차세대 사회보장 시스템 GIS 부분 개발
-
 </details>
+
 <details>
 <summary>Project(s) in Poole Learning</summary><br>
 
@@ -91,11 +92,16 @@
     - 테스트 환경 API 서버 관리 (Node 기반)
     - (초.중.고등) PDF기반 풀이 및 필기 서비스
 </details>
+
 <details>
 <summary>Project(s) in URP Systems</summary><br>
 
-- 2022년 정부업무관리시스템(온-나라) 및 정부전자문서유통지원센터 유지관리 사업
-    - 통합 온-나라 문서 앱 개발 및 유지보수
+- 2022년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업
+    - 온나라 문서 모바일 앱 (`v1.0`/`v2.0`)
+    - 온나라 문서 모바일용 중계서버 (`v1.0`/`v2.0`)
+    - 온나라 문서 모바일용 결재서버 (`v1.0`/`v2.0`)
+    - 기타 툴 (API 테스팅, SSO로그인 검증, etc.)
+    - 모바일서비스팀 총괄
 </details>
     
 ### 🌱 I’m currently learning ...
