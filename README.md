@@ -13,6 +13,8 @@
     <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?logo=Xcode&logoColor=white&style=flat-square" /> -->
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Springboot&logoColor=white&style=flat-square" />
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=Springsecurity&logoColor=white&style=flat-square" />
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" />
     <img alt="C Sharp" src="https://img.shields.io/badge/C%20Sharp-239120?logo=C%20Sharp&logoColor=white&style=flat-square" />
     <img alt=".Net Core" src="https://img.shields.io/badge/.Net%20Core-5C2D91?logo=.net&logoColor=white&style=flat-square" />
@@ -32,6 +34,8 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=flat-square" />
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat-square" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" />
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
     <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square" />
     <img alt="Synology Nas" src="https://img.shields.io/badge/Synology%20NAS-B6B5B6?logo=synology&logoColor=white&style=flat-square" />
@@ -42,6 +46,7 @@
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat-square" />
     <img alt="Red Hat Openshift" src="https://img.shields.io/badge/Openshift-EE0000?logo=redhatopenshift&logoColor=white&style=flat-square" />
+    <img alt="Naver" src="https://img.shields.io/badge/NCloud-03C75A?logo=naver&logoColor=white&style=flat-square"/>
 </p>
 
 
@@ -67,40 +72,86 @@
 
 </details>    
 <details>
-<summary>Project(s) in G-inno System</summary><br>
+<summary>(2018-2021) in <em><b>G-inno System</b></em></summary><br>
 
-- 2018년 서울시 포장도로 관리 시스템 유지보수 용역
+<p>
+<a href="http://www.g-inno.com">
+<img alt="ginno" src="./imgs/logo-ginno.png" height="22px"/>
+</a>
+<a href="https://www.arcgis.com/home/index.html">
+<img alt="arcgis" src="./imgs/logo-arcgis.png" height="60px"/>
+</a>
+<a href="https://www.seoul.go.kr">
+<img alt="seoul" src="./imgs/logo-seoul.png" height="60px"/>
+</a>
+<a href="https://www.mois.go.kr/frt/a01/frtMain.do">
+<img alt="MOIS" src="./imgs/logo-mois.png" height="60px"/>
+</a>
+<a href="https://www.lgcns.com">
+<img alt="lgcns" src="./imgs/logo-lg-cns.png" height="60px"/>
+</a>
+<a href="https://www.data.go.kr">
+<img alt="data" src="./imgs/logo-data.jpeg" height="60px"/>
+</a>
+</p>
+
+- (2018-2019) 서울시 포장도로 관리 시스템 모바일부분 유지보수 용역
     - Daum 맵 위치정보 기반 멀티플랫폼 프로젝트
+    - 네이티브 앱(Android / iOS) + Spring기반 중계서버 개발+배포 담당
     - [![spms-ios](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][spms-ios][![spms-android](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][spms-android]
-- 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _서울안전 (대시민)_
-    - Naver 맵 위치정보 기반 웹/모바일 하이브리드 프로젝트
+- (2019-2020) 서울시 포장도로 관리 시스템 유지보수 용역
+    - ArcGis 기반 공간정보 프로젝트
+    - Spring기반 프론트/백엔드 개발+배포 담당 
+    - ArcGis 기반 지도데이터 갱신
+- (2019-2020) 서울 스마트재난 시스템 유지보수 용역 - _서울안전 (대시민)_
+    - NCloud 맵 위치정보 기반 멀티플랫폼 프로젝트
+    - 하이브리드 앱 (Cordova) + Spring기반 웹/모바일 프론트/백엔드 개발+배포 담당
     - [![safecity-ios](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][safecity-ios][![safecity-android](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][safecity-android]
     - [서울안전누리 사이트][toSafecity]
-- 2019-20년 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_
-- 2020년 행안부 통합상황시스템 모바일 신규 사업
-- 2021년 LG CNS 차세대 사회보장 시스템 GIS 부분 개발
+- (2019-2020) 서울 스마트재난 시스템 유지보수 용역 - _통합재난시스템 (내부)_
+- (2020) 행정안전부 통합상황시스템 모바일 신규 사업
+- (2021) LG CNS 차세대 사회보장 시스템 GIS 부분 개발
 </details>
 
 <details>
-<summary>Project(s) in Poole Learning</summary><br>
+<summary>(2021-2022) in <em><b>Poole Learning</b></em></summary><br>
+<p>
+<a href="https://www.poolemath.com/">
+<img alt="Poolemath" src="./imgs/logo-poole.png" height="60px"/>
+</a>
+<a href="https://www.smarthb-math.co.kr/">
+<img alt="smarthb" src="./imgs/logo-smarthb.png" height="60px"/>
+</a>
+</p>
 
-- 자사 앱 개발 및 관리 (2021-현재)
+- (2021-2022) 자사 앱 개발 및 관리 
     - __풀이수학__: (중.고등) 수학 외 기타과목 문제지 (Web/PDF 기반) 풀이 및 필기 서비스
     - __수식입력기__: LaTeX기반 수식 변환 전용
     - __어드민__: 수학 문제지 문제 등록/수정/기타 관리용
-- 2021년 해법교육 수학 AppBook 개발 및 외주 프로젝트 용역 : 안드로이드 및 서버 개발관리
+- (2021) 해법교육 수학 AppBook 개발 및 외주 프로젝트 용역 : 안드로이드 및 서버 개발관리
     - 테스트 환경 API 서버 관리 (Node 기반)
     - (초.중.고등) PDF기반 풀이 및 필기 서비스
 </details>
 
 <details>
-<summary>Project(s) in URP Systems</summary><br>
+<summary>(2021-current) in <em><b>URP Consortium</b></em></summary><br>
+<p>
+<a href="http://www.urpsys.com/">
+<img alt="URP Systems" src="./imgs/logo-urp.png" height="60px"/>
+</a>
+<a href="https://www.klid.or.kr/">
+<img alt="KLID" src="./imgs/logo-klid.png" height="60px"/>
+</a>
+<a href="https://www.mois.go.kr/frt/a01/frtMain.do">
+<img alt="MOIS" src="./imgs/logo-mois.png" height="60px"/>
+</a>
+</p>
 
 - 2022년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업
     - 온나라 문서 모바일 앱 (`v1.0`/`v2.0`)
     - 온나라 문서 모바일용 중계서버 (`v1.0`/`v2.0`)
     - 온나라 문서 모바일용 결재서버 (`v1.0`/`v2.0`)
-    - 기타 툴 (API 테스팅, SSO로그인 검증, etc.)
+    - 기타 툴 (API 및 웹서비스 테스팅, SSO로그인 검증, etc.)
     - 모바일서비스팀 총괄
 </details>
     
